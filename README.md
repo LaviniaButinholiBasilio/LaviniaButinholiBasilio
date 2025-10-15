@@ -2,16 +2,32 @@
 
 
   🌸 ୨ Studying *Software Engineering* ୧ 🌸 <br>
-  🌸 ୨ Learning *Python, C#, C++* ୧ 🌸 <br>
+  🌸 ୨ Learning *Python, C#, C++, HTML, CSS* ୧ 🌸 <br>
   🌸 ୨ Exploring *AI with Azure / AI Engineer Career* ୧ 🌸
 
 ---
 
 ## 🌟 GitHub Stats ✨
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaviniaButinholiBasilio&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=1800" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaButinholiBasilio&layout=compact&theme=synthwave&hide_border=true&cache_seconds=1800" alt="langs" height="150"/>
-</p>
+<!-- GitHub Stats e Badge Python -->
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LaviniaButinholiBasilio&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="400" />
+
+  <!-- Espaçamento -->
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaButinholiBasilio&layout=compact&theme=synthwave&hide_border=true&cache_seconds=1800" alt="Top Languages" width="400" />
+
+  <!-- Espaçamento -->
+  <br><br>
+
+  <!-- Badge Python -->
+  <img src="https://img.shields.io/badge/Python-3.11-FFC0CB?style=flat&logo=python&logoColor=white" alt="Python Badge" height="30"/>
+
+</div>
+
 
 ---
 
