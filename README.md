@@ -9,8 +9,8 @@
 
 ## 🌟 GitHub Stats ✨
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaviniaButinholiBasilio&show_icons=true&theme=synthwave&hide_border=true" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaButinholiBasilio&layout=compact&theme=synthwave&hide_border=true" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaviniaButinholiBasilio&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=1800" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaButinholiBasilio&layout=compact&theme=synthwave&hide_border=true&cache_seconds=1800" alt="langs" height="150"/>
 </p>
 
 ---
