@@ -2,8 +2,17 @@
 
 
   🌸 ୨ Studying *Software Engineering* ୧ 🌸 <br>
-  🌸 ୨ Learning *Python, C#, C++, HTML, CSS* ୧ 🌸 <br>
+  🌸 ୨ Learning *Python, C#, HTML, CSS* ୧ 🌸 <br>
   🌸 ୨ Exploring *AI with Azure / AI Engineer Career* ୧ 🌸
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.11-EAA6C0?style=flat&logo=python&logoColor=white" alt="Python Badge" height="30"/>
+  <img src="https://img.shields.io/badge/HTML-5-EAA6C0?style=flat&logo=html5&logoColor=white" alt="HTML Badge" height="30"/>
+  <img src="https://img.shields.io/badge/CSS-3-EAA6C0?style=flat&logo=css3&logoColor=white" alt="CSS Badge" height="30"/>
+  <img src="https://img.shields.io/badge/C%23-9.0-EAA6C0?style=flat&logo=c-sharp&logoColor=white" alt="C# Badge" height="30"/>
+</p>
+
+
 
 ---
 
@@ -22,10 +31,6 @@
 
   <!-- Espaçamento -->
   <br><br>
-
-  <!-- Badge Python -->
-  <img src="https://img.shields.io/badge/Python-3.11-FFC0CB?style=flat&logo=python&logoColor=white" alt="Python Badge" height="30"/>
-
 </div>
 
 
