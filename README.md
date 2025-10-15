@@ -27,6 +27,9 @@
   <a href="www.linkedin.com/in/lavínia-butinholi-basílio-3376a0225">
     <img src="https://img.shields.io/badge/-LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/_lavinia.butinholi?igsh=MW9vYTZnb25maG55NQ=="
+    <img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
